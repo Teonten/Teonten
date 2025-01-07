@@ -4,12 +4,14 @@
 </div>
 
 
-
-
 <!---
+this one has the streaks card:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teonten&theme=dark&show_icons=true" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=teonten&theme=dark&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&hide_border=false" height="200" alt="stats graph with dark theme" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teonten&theme=dark&show_icons=true&layout=compact&card_width=320&langs_count=5&hide_border=false" height="200" alt="languages graph with dark theme" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teonten&theme=dark&hide_border=false&mode=weekly" height="200" alt="GitHub streak" />
 </div>
+
 
 
 <!---
