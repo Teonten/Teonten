@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teonten&theme=dark&show_icons=true)](https://github.com/teonten/github-readme-stats)
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teonten&theme=dark&show_icons=true)](https://github.com/teonten/github-readme-stats)
+</div>
 
 <!---
 Teonten/Teonten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
